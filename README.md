@@ -1,6 +1,6 @@
 # NG AUCTION
 
-Angular 7 practice project with client and server. 
+Angular 7 practice project with Express server. 
 
 
 To build the client:
