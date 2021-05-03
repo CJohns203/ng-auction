@@ -1,9 +1,9 @@
 # NG AUCTION
 
-##Angular 7 practice project with Express server. 
+## Angular 7 practice project with Express server. 
 
 
-###To build the client:
+### To build the client:
 
 * Enter client directory
 
@@ -16,7 +16,7 @@
 * You should NOT see any products at this point...
 
 
-###To build the server:
+### To build the server:
 
 * Enter server directory in new shell script window
 
